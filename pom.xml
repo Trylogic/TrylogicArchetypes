@@ -13,4 +13,15 @@
 		<module>pure-app-archetype</module>
 	</modules>
 
+        <distributionManagement>
+		<repository>
+			<id>trylogic-releases</id>
+			<url>http://nexus.trylogic.ru/content/repositories/releases/</url>
+		</repository>
+		<snapshotRepository>
+			<id>trylogic-snapshots</id>
+			<url>http://nexus.trylogic.ru/content/repositories/snapshots/</url>
+		</snapshotRepository>
+	</distributionManagement>
+
 </project>
