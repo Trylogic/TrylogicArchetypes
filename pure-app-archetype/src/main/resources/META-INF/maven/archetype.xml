@@ -1,0 +1,8 @@
+<archetype>
+  <id>pure-app-archetype</id>
+  <sources>
+	  <source>src/main/flex/Application.as</source>
+  </sources>
+  <testSources>
+  </testSources>
+</archetype>
